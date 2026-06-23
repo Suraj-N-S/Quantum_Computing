@@ -1,2 +1,3 @@
-#Summer 2026 Quantum Computing Project
-Suraj N and Aditya Appana, under the guidance of Dr Lakshmi Prasad Natarajan
+## Summer 2026 Quantum Computing Project
+* **Students:** Suraj N, Aditya Appana
+* **Professor:** Dr. Lakshmi Prasad Natarajan
